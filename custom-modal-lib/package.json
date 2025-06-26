@@ -1,6 +1,6 @@
 {
-  "name": "react-custom-modal",
-  "version": "1.0.0",
+  "name": "djyn-custom-lib-modal",
+  "version": "1.0.1",
   "description": "A simple customizable React modal component",
   "main": "modal.jsx",
   "exports": {
@@ -16,6 +16,11 @@
   "peerDependencies": {
     "react": "^18.0.0",
     "react-dom": "^18.0.0"
+  },
+
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/Matpetitj/custom-lib-modal"
   },
 
   "devDependencies": {
