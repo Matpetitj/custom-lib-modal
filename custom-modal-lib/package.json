@@ -1,6 +1,6 @@
 {
   "name": "djyn-custom-lib-modal",
-  "version": "2.0.1",
+  "version": "2.1.1",
   "description": "A simple customizable React modal component",
   "main": "src/index.js",
   "exports": {
