@@ -1,6 +1,6 @@
 {
   "name": "djyn-custom-lib-modal",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "description": "A simple customizable React modal component",
   "main": "src/index.js",
   "exports": {
@@ -11,19 +11,22 @@
     "src/modal.css",
     "src/index.js"
   ],
-  "keywords": ["react", "modal", "component", "ui"],
+  "keywords": [
+    "react",
+    "modal",
+    "component",
+    "ui"
+  ],
   "author": "djyn",
   "license": "MIT",
   "peerDependencies": {
-    "react": "^18.0.0",
-    "react-dom": "^18.0.0"
+    "react": "^18.3.1 || ^19.0.0",
+    "react-dom": "^18.3.1 || ^19.0.0"
   },
-
   "repository": {
-  "type": "git",
-  "url": "https://github.com/Matpetitj/custom-lib-modal"
+    "type": "git",
+    "url": "https://github.com/Matpetitj/custom-lib-modal"
   },
-
   "devDependencies": {
     "@eslint/js": "^9.25.0",
     "@types/react": "^19.1.2",
