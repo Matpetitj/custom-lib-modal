@@ -59,7 +59,7 @@ function App() {
 
 ## Styling
 
-The component includes its own default styles via `modal.css`, but you can override them using props or your own CSS.
+The components includes his own main style, please use the props to modify it and don't override the CSS.
 
 ## Repository
 
